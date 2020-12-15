@@ -1,0 +1,8 @@
+C:\Documents and Settings\mjmay\My Documents\Kinneret\Distributed Information Systems Fall 5771\Recitations\HLS\HLS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mjmay\My Documents\Kinneret\Distributed Information Systems Fall 5771\Recitations\HLS\HLS\obj\Debug\HierarchicalLocation.HLS.resources
+C:\Documents and Settings\mjmay\My Documents\Kinneret\Distributed Information Systems Fall 5771\Recitations\HLS\HLS\obj\Debug\HLS.Properties.Resources.resources
+C:\Documents and Settings\mjmay\My Documents\Kinneret\Distributed Information Systems Fall 5771\Recitations\HLS\HLS\obj\Debug\HLS.csproj.GenerateResource.Cache
+C:\Documents and Settings\mjmay\My Documents\Kinneret\Distributed Information Systems Fall 5771\Recitations\HLS\HLS\bin\Debug\HLS.exe
+C:\Documents and Settings\mjmay\My Documents\Kinneret\Distributed Information Systems Fall 5771\Recitations\HLS\HLS\bin\Debug\HLS.pdb
+C:\Documents and Settings\mjmay\My Documents\Kinneret\Distributed Information Systems Fall 5771\Recitations\HLS\HLS\obj\Debug\HLS.exe
+C:\Documents and Settings\mjmay\My Documents\Kinneret\Distributed Information Systems Fall 5771\Recitations\HLS\HLS\obj\Debug\HLS.pdb

@@ -1,0 +1,25 @@
+C:\Users\mjmay\Documents\Kinneret\Distributed Information Systems Fall 5773\Recitations\HLS\HLS\obj\Debug\HLS.exe
+C:\Users\mjmay\Documents\Kinneret\Distributed Information Systems Fall 5773\Recitations\HLS\HLS\obj\Debug\HLS.pdb
+C:\Users\mjmay\Documents\Kinneret\Distributed Information Systems Fall 5773\Recitations\HLS\HLS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mjmay\Documents\Kinneret\Distributed Information Systems Fall 5773\Recitations\HLS\HLS\obj\Debug\HierarchicalLocation.HLS.resources
+C:\Users\mjmay\Documents\Kinneret\Distributed Information Systems Fall 5773\Recitations\HLS\HLS\obj\Debug\HLS.csproj.GenerateResource.Cache
+C:\Users\mjmay\Documents\Kinneret\Distributed Information Systems Fall 5773\Recitations\HLS\HLS\bin\Debug\HLS.exe
+C:\Users\mjmay\Documents\Kinneret\Distributed Information Systems Fall 5773\Recitations\HLS\HLS\bin\Debug\HLS.pdb
+C:\Users\mjmay\Documents\Kinneret\Distributed Information Systems Fall 5773\Recitations\HLS\HLS\obj\Debug\HierarchicalLocation.Properties.Resources.resources
+C:\Users\mjmay\Documents\Kinneret\Distributed Information Systems Fall 5774\Recitations\HLS\HLS\obj\Debug\HLS.exe
+C:\Users\mjmay\Documents\Kinneret\Distributed Information Systems Fall 5774\Recitations\HLS\HLS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mjmay\Documents\Kinneret\Distributed Information Systems Fall 5774\Recitations\HLS\HLS\obj\Debug\HierarchicalLocation.HLS.resources
+C:\Users\mjmay\Documents\Kinneret\Distributed Information Systems Fall 5774\Recitations\HLS\HLS\obj\Debug\HierarchicalLocation.Properties.Resources.resources
+C:\Users\mjmay\Documents\Kinneret\Distributed Information Systems Fall 5774\Recitations\HLS\HLS\obj\Debug\HLS.csproj.GenerateResource.Cache
+C:\Users\mjmay\Documents\Kinneret\Distributed Information Systems Fall 5774\Recitations\HLS\HLS\bin\Debug\HLS.exe
+C:\Users\mjmay\Documents\Kinneret\Distributed Information Systems Fall 5774\Recitations\HLS\HLS\bin\Debug\HLS.pdb
+C:\Users\mjmay\Documents\Kinneret\Distributed Information Systems Fall 5774\Recitations\HLS\HLS\obj\Debug\HLS.pdb
+C:\Users\HKN\Desktop\HLS-Empty\HLS\bin\Debug\HLS.exe
+C:\Users\HKN\Desktop\HLS-Empty\HLS\bin\Debug\HLS.pdb
+C:\Users\HKN\Desktop\HLS-Empty\HLS\obj\Debug\HLS.csprojAssemblyReference.cache
+C:\Users\HKN\Desktop\HLS-Empty\HLS\obj\Debug\HierarchicalLocation.HLS.resources
+C:\Users\HKN\Desktop\HLS-Empty\HLS\obj\Debug\HierarchicalLocation.Properties.Resources.resources
+C:\Users\HKN\Desktop\HLS-Empty\HLS\obj\Debug\HLS.csproj.GenerateResource.cache
+C:\Users\HKN\Desktop\HLS-Empty\HLS\obj\Debug\HLS.csproj.CoreCompileInputs.cache
+C:\Users\HKN\Desktop\HLS-Empty\HLS\obj\Debug\HLS.exe
+C:\Users\HKN\Desktop\HLS-Empty\HLS\obj\Debug\HLS.pdb
